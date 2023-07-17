@@ -1,0 +1,16 @@
+*{
+    color:black ;
+}
+h1 {
+    color:rgb(235, 232, 58);
+}
+p{
+    color:rgb(76, 60, 255);
+}
+button{
+    color:rgb(117, 186, 241);
+    background-color:aliceblue ;
+}
+ body{
+    background-color:#ffff00;
+ }
