@@ -14,3 +14,13 @@ button{
  body{
     background-color:#ffff00;
  }
+ /* #box{ 
+    background-color: blue;
+  } */
+
+  .heading {
+    color:red;
+  }
+  button{
+    background-color: green;
+  }
