@@ -1,8 +1,9 @@
 *{
     color:black ;
+    font-family:'Times New Roman';
 }
 h1 {
-    color:rgb(235, 232, 58);
+    color:rgb(235, 141, 58);
 }
 p{
     color:rgb(76, 60, 255);
@@ -23,4 +24,30 @@ button{
   }
   button{
     background-color: green;
+  }
+  p{
+    text-align:center ;
+  }
+  h4{
+    text-decoration: rgb(0, 110, 255) wavy underline;
+    font-weight:bolder;
+  }
+  #one{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  /*#two{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12px;
+    line-height: 32px;
+    text-transform: uppercase ;
+  }*/
+  h3{
+    text-align: center;
+    text-transform: capitalize;
+  }
+  #outer{
+    font-size: 25px;
+  }
+  #inner{
+    font-size: 10px ;
   }
