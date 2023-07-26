@@ -4,6 +4,7 @@
 }
 h1 {
     color:rgb(235, 141, 58);
+    border: 2px solid green;
 }
 p{
     color:rgb(76, 60, 255);
@@ -50,4 +51,12 @@ button{
   }
   #inner{
     font-size: 10px ;
+  }
+  div{
+    height: 100px;
+    width: 50px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: aqua;
+    text-align: center;
   }
