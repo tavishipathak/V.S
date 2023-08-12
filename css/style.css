@@ -86,7 +86,7 @@ button{
     width: 50px;
     border-radius: 50%;
     background-color: green;
-  }*/
+  }
 
   *{
     padding: 0;
@@ -102,10 +102,14 @@ button{
     background-color:#f08804;
   }
   #logo{
-    color: #f08804;
+    color: #f08804; 
     font-size: 25px;
   }
   a{
     margin-right: 150px;
+  }*/
+  div{
+    background-color: beige;
+    display: inline;
   }
    
